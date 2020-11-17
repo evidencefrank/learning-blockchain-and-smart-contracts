@@ -70,6 +70,8 @@ class Main extends Component {
 
                 </div>
 
+                <p className="text-center text-sm text-muted">@2020 By Evidence Mandizvidza with the aid of Dapp University</p>
+
             </div>
         );
     }
